@@ -1,4 +1,3 @@
 #!/bin/bash
 
-cd Desktop
 jupyter notebook
